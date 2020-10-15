@@ -1,7 +1,7 @@
 package application;
 import java.util.Scanner;
 import entities.Data;
-public class Program5 {
+public class Program {
 
 	public static void main(String[] args) {
 
